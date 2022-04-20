@@ -2,7 +2,7 @@ package DEMO;
 
 public class A
 {
-	int c=20;              //global variable 
+	int c=30;              //global variable 
 	
 	public void m1()
 	{
